@@ -30,6 +30,11 @@ body {
   width: 100vw;
 }
 
+.portfolio-nav img {
+  width: 4rem;
+  height: 4rem;
+}
+
 .portfolio-nav > h1 {
   font-size: 1.8rem;
   color: var(--white-color);
